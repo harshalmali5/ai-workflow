@@ -3,10 +3,7 @@
 This repository contains a self‑contained Python implementation of a simple AI
 workflow that ingests raw inquiry emails, extracts structured information,
 drafts an acknowledgment response, generates a quote based on a local price
-list and tiered discount rules, and records an activity log.  The workflow
-matches the specification described in the assignment brief for a deterministic
-offline system that processes an inbox directory and persists artefacts to the
-filesystem.
+list and tiered discount rules, and records an activity log.  
 
 ## Project structure
 
@@ -237,6 +234,3 @@ Below are excerpts of the artefacts generated for the sample email
 }
 ```
 
-These examples illustrate how the workflow extracts structured data, generates a
-human‑readable acknowledgment, and computes a deterministic quote using the
-local price list and discount rules.
