@@ -1,0 +1,19 @@
+{
+  "email_id": "5fa7d8f193847365",
+  "status": "complete",
+  "line_items": [
+    {
+      "product_name": "Widget",
+      "unit_price": 100.0,
+      "quantity": 15,
+      "discount_rate": 0.05,
+      "discount_amount": 75.0,
+      "subtotal": 1425.0
+    }
+  ],
+  "subtotal": 1425.0,
+  "tax": 256.5,
+  "total": 1681.5,
+  "currency": "INR",
+  "missing_fields": []
+}

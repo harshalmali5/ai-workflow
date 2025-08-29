@@ -1,0 +1,10 @@
+From: charlie@example.com
+Subject: Need items
+Date: Sat, 30 Aug 2025 13:00:00 +0530
+
+Hi,
+
+Looking to order some widgets and doohickeys. Could you let me know the pricing and if you have any in stock? Also, quantity for widgets is 10, but I'm not sure about how many doohickeys we need yet.
+
+Thanks,
+Charlie

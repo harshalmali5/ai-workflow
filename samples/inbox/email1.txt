@@ -1,0 +1,10 @@
+From: john@example.com
+Subject: Request for Widget
+Date: Mon, 25 Aug 2025 10:00:00 +0530
+
+Hi team,
+
+I would like to purchase 15 widgets. Please send me a quote including taxes.
+
+Thanks,
+John Doe

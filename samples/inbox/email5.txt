@@ -1,0 +1,13 @@
+From: support@example.com
+Subject: Price request
+Date: Fri, 29 Aug 2025 08:20:00 +0530
+
+Hello team,
+
+I found your product through a friend. Need 20 widgets. Also, could you tell me if there is any discount for bulk orders?
+
+-- 
+Support Team
+company example
+123 Street Name
+City, Country
