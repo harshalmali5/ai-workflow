@@ -1,0 +1,10 @@
+From: bob@example.com
+Subject: Order inquiry
+Date: Wed, 27 Aug 2025 09:30:00 +0530
+
+Greetings,
+
+We need 5 widgets and 12 gadgets for our upcoming project. Could you send us the total cost and expected delivery time?
+
+Regards,
+Bob Brown

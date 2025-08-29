@@ -1,0 +1,5 @@
+[
+  {"min_quantity": 50, "discount": 0.10},
+  {"min_quantity": 10, "discount": 0.05},
+  {"min_quantity": 1, "discount": 0.0}
+]

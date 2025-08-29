@@ -1,0 +1,15 @@
+{
+  "email_id": "9fd082d8c7ba3817",
+  "to": "charlie@example.com",
+  "subject": "Re: Need items",
+  "body": "Hello Charlie,\n\nThank you for reaching out to us regarding Widget, Doohickeys.\n\nTo help us prepare an accurate quote, could you please clarify the following:\n- Could you please confirm the quantity required for Widget?\n- Could you please confirm the quantity required for Doohickeys?\n\nWe aim to respond to all inquiries within 24 hours.\n\nKind regards,\nSales Team",
+  "missing_fields": [
+    "quantity for Widget",
+    "quantity for Doohickeys",
+    "price for Doohickeys"
+  ],
+  "questions": [
+    "Could you please confirm the quantity required for Widget?",
+    "Could you please confirm the quantity required for Doohickeys?"
+  ]
+}

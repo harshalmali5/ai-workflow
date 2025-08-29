@@ -1,0 +1,8 @@
+{
+  "email_id": "98a9b77bf0a5b57b",
+  "to": "bob@example.com",
+  "subject": "Re: Order inquiry",
+  "body": "Hello Bob,\n\nThank you for reaching out to us regarding 5 Widget(s), 12 Gadget(s).\n\nWe aim to respond to all inquiries within 24 hours.\n\nKind regards,\nSales Team",
+  "missing_fields": [],
+  "questions": []
+}

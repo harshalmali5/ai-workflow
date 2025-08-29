@@ -1,0 +1,59 @@
+{
+  "email_id": "9fd082d8c7ba3817",
+  "from": {
+    "value": "charlie@example.com",
+    "confidence": 0.95,
+    "notes": ""
+  },
+  "subject": {
+    "value": "Need items",
+    "confidence": 0.95,
+    "notes": ""
+  },
+  "items": [
+    {
+      "product_name": {
+        "value": "Widget",
+        "confidence": 0.6,
+        "notes": ""
+      },
+      "quantity": {
+        "value": null,
+        "confidence": 0.0,
+        "notes": "quantity missing"
+      },
+      "unit": {
+        "value": "piece",
+        "confidence": 0.8,
+        "notes": ""
+      }
+    },
+    {
+      "product_name": {
+        "value": "Doohickeys",
+        "confidence": 0.2,
+        "notes": "unknown product"
+      },
+      "quantity": {
+        "value": null,
+        "confidence": 0.0,
+        "notes": "quantity missing"
+      },
+      "unit": {
+        "value": "piece",
+        "confidence": 0.8,
+        "notes": ""
+      }
+    }
+  ],
+  "currency": {
+    "value": "INR",
+    "confidence": 0.5,
+    "notes": "default currency assumed"
+  },
+  "missing_fields": [
+    "quantity for Widget",
+    "quantity for Doohickeys",
+    "price for Doohickeys"
+  ]
+}

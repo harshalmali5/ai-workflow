@@ -1,0 +1,40 @@
+{
+  "email_id": "51662027bbadae98",
+  "from": {
+    "value": "jane@example.com",
+    "confidence": 0.95,
+    "notes": ""
+  },
+  "subject": {
+    "value": "Need Gadget",
+    "confidence": 0.95,
+    "notes": ""
+  },
+  "items": [
+    {
+      "product_name": {
+        "value": "Gadget",
+        "confidence": 0.6,
+        "notes": ""
+      },
+      "quantity": {
+        "value": null,
+        "confidence": 0.0,
+        "notes": "quantity missing"
+      },
+      "unit": {
+        "value": "piece",
+        "confidence": 0.8,
+        "notes": ""
+      }
+    }
+  ],
+  "currency": {
+    "value": "INR",
+    "confidence": 0.5,
+    "notes": "default currency assumed"
+  },
+  "missing_fields": [
+    "quantity for Gadget"
+  ]
+}

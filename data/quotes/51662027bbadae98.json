@@ -1,0 +1,21 @@
+{
+  "email_id": "51662027bbadae98",
+  "status": "pending",
+  "line_items": [
+    {
+      "product_name": "Gadget",
+      "unit_price": 150.0,
+      "quantity": null,
+      "discount_rate": 0.0,
+      "discount_amount": 0.0,
+      "subtotal": null
+    }
+  ],
+  "subtotal": 0.0,
+  "tax": 0.0,
+  "total": 0.0,
+  "currency": "INR",
+  "missing_fields": [
+    "quantity for Gadget"
+  ]
+}

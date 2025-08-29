@@ -1,0 +1,10 @@
+From: jane@example.com
+Subject: Need Gadget
+Date: Tue, 26 Aug 2025 14:15:00 +0530
+
+Hello,
+
+I'm interested in buying your gadget. How much does it cost? Please provide pricing and availability.
+
+Regards,
+Jane Smith

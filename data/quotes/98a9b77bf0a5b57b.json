@@ -1,0 +1,27 @@
+{
+  "email_id": "98a9b77bf0a5b57b",
+  "status": "complete",
+  "line_items": [
+    {
+      "product_name": "Widget",
+      "unit_price": 100.0,
+      "quantity": 5,
+      "discount_rate": 0.0,
+      "discount_amount": 0.0,
+      "subtotal": 500.0
+    },
+    {
+      "product_name": "Gadget",
+      "unit_price": 150.0,
+      "quantity": 12,
+      "discount_rate": 0.05,
+      "discount_amount": 90.0,
+      "subtotal": 1710.0
+    }
+  ],
+  "subtotal": 2210.0,
+  "tax": 397.8,
+  "total": 2607.8,
+  "currency": "INR",
+  "missing_fields": []
+}

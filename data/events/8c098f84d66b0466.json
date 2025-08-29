@@ -1,0 +1,38 @@
+{
+  "email_id": "8c098f84d66b0466",
+  "from": {
+    "value": "alice@example.com",
+    "confidence": 0.95,
+    "notes": ""
+  },
+  "subject": {
+    "value": "Quotation",
+    "confidence": 0.95,
+    "notes": ""
+  },
+  "items": [
+    {
+      "product_name": {
+        "value": "Thingamajig",
+        "confidence": 0.9,
+        "notes": ""
+      },
+      "quantity": {
+        "value": 3,
+        "confidence": 0.9,
+        "notes": ""
+      },
+      "unit": {
+        "value": "piece",
+        "confidence": 0.8,
+        "notes": ""
+      }
+    }
+  ],
+  "currency": {
+    "value": "USD",
+    "confidence": 0.8,
+    "notes": ""
+  },
+  "missing_fields": []
+}

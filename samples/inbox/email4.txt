@@ -1,0 +1,10 @@
+From: alice@example.com
+Subject: Quotation
+Date: Thu, 28 Aug 2025 11:45:00 +0530
+
+Hey there,
+
+Can I get 3 thingamajigs asap? Pricing in USD please.
+
+Cheers,
+Alice Johnson
